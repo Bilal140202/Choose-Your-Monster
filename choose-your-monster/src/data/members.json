@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ruka",
+    "name": "Ruka",
+    "faceImage": "/assets/placeholders/ruka_face.png",
+    "theme": {
+      "primaryColor": "red-500",
+      "secondaryColor": "orange-500",
+      "backgroundStyle": "fire-smoke",
+      "portalStyle": "flame-tunnel"
+    },
+    "soundSnippet": "/assets/sounds/ruka_sheesh.mp3",
+    "universeVibe": "Rebel Queen",
+    "quotes": ["I'm the top, I'm the boss, RUKA!"],
+    "trivia": ["Oldest member of BABYMONSTER.", "Known for her powerful dance skills."]
+  },
+  {
+    "id": "chiquita",
+    "name": "Chiquita",
+    "faceImage": "/assets/placeholders/chiquita_face.png",
+    "theme": {
+      "primaryColor": "blue-400",
+      "secondaryColor": "cyan-300",
+      "backgroundStyle": "electric-blue",
+      "portalStyle": "glitchy-vortex"
+    },
+    "soundSnippet": "/assets/sounds/chiquita_likethat.mp3",
+    "universeVibe": "Futuristic Pop",
+    "quotes": ["Can I get a like that?"],
+    "trivia": ["Youngest member of BABYMONSTER.", "From Thailand."]
+  },
+  {
+    "id": "asa",
+    "name": "Asa",
+    "faceImage": "/assets/placeholders/asa_face.png",
+    "theme": {
+      "primaryColor": "pink-300",
+      "secondaryColor": "purple-300",
+      "backgroundStyle": "sakura-storm",
+      "portalStyle": "petal-wind-portal"
+    },
+    "soundSnippet": "/assets/sounds/asa_fastflow.mp3",
+    "universeVibe": "Calm Strength",
+    "quotes": ["My flow is too fast for you to follow."],
+    "trivia": ["First Japanese female idol to debut under YG Entertainment.", "Known for her rap skills."]
+  },
+  {
+    "id": "rami",
+    "name": "Rami",
+    "faceImage": "/assets/placeholders/rami_face.png",
+    "theme": {
+      "primaryColor": "purple-500",
+      "secondaryColor": "indigo-400",
+      "backgroundStyle": "galaxy-purple",
+      "portalStyle": "star-portal"
+    },
+    "soundSnippet": "/assets/sounds/rami_highnote.mp3",
+    "universeVibe": "Celestial Dreamer",
+    "quotes": ["Dream big, shine bright."],
+    "trivia": ["Known for her powerful vocals.", "Her birth name is Haram."]
+  },
+  {
+    "id": "ahyeon",
+    "name": "Ahyeon",
+    "faceImage": "/assets/placeholders/ahyeon_face.png",
+    "theme": {
+      "primaryColor": "yellow-400",
+      "secondaryColor": "orange-300",
+      "backgroundStyle": "gold-crown",
+      "portalStyle": "golden-door"
+    },
+    "soundSnippet": "/assets/sounds/ahyeon_rap.mp3",
+    "universeVibe": "Boss Energy",
+    "quotes": ["I'm on a different level."],
+    "trivia": ["Known as an all-rounder (vocals, rap, dance).", "Fluent in English."]
+  },
+  {
+    "id": "pharita",
+    "name": "Pharita",
+    "faceImage": "/assets/placeholders/pharita_face.png",
+    "theme": {
+      "primaryColor": "teal-400",
+      "secondaryColor": "green-300",
+      "backgroundStyle": "vintage-neon",
+      "portalStyle": "mirror-gate"
+    },
+    "soundSnippet": "/assets/sounds/pharita_prechorus.mp3",
+    "universeVibe": "Model Chic Universe",
+    "quotes": ["Elegance with an edge."],
+    "trivia": ["From Thailand.", "Known for her model-like visuals and vocals."]
+  },
+  {
+    "id": "rora",
+    "name": "Rora",
+    "faceImage": "/assets/placeholders/rora_face.png",
+    "theme": {
+      "primaryColor": "green-400",
+      "secondaryColor": "blue-300",
+      "backgroundStyle": "forest-night",
+      "portalStyle": "moonlit-portal"
+    },
+    "soundSnippet": "/assets/sounds/rora_sosweet.mp3",
+    "universeVibe": "Mystical Warmth",
+    "quotes": ["Sweet voice, strong heart."],
+    "trivia": ["Known for her sweet vocals.", "Her name means 'aurora'."]
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "ruka": [
+    { "id": "ruka_meme_1", "url": "/assets/placeholders/memes/ruka_meme1.jpg", "alt": "Ruka 'don't mess with me' energy meme" },
+    { "id": "ruka_meme_2", "url": "/assets/placeholders/memes/ruka_meme2.jpg", "alt": "Ruka cool pose meme" },
+    { "id": "ruka_meme_3", "url": "/assets/placeholders/memes/ruka_meme3.jpg", "alt": "Ruka funny reaction meme" }
+  ],
+  "chiquita": [
+    { "id": "chiquita_meme_1", "url": "/assets/placeholders/memes/chiquita_meme1.jpg", "alt": "Chiquita energetic meme" },
+    { "id": "chiquita_meme_2", "url": "/assets/placeholders/memes/chiquita_meme2.jpg", "alt": "Chiquita cute meme" },
+    { "id": "chiquita_meme_3", "url": "/assets/placeholders/memes/chiquita_meme3.jpg", "alt": "Chiquita 'like that' meme" }
+  ],
+  "asa": [
+    { "id": "asa_meme_1", "url": "/assets/placeholders/memes/asa_meme1.jpg", "alt": "Asa calm but deadly meme" },
+    { "id": "asa_meme_2", "url": "/assets/placeholders/memes/asa_meme2.jpg", "alt": "Asa focused rap face meme" },
+    { "id": "asa_meme_3", "url": "/assets/placeholders/memes/asa_meme3.jpg", "alt": "Asa elegant meme" }
+  ],
+  "rami": [
+    { "id": "rami_meme_1", "url": "/assets/placeholders/memes/rami_meme1.jpg", "alt": "Rami hitting high note meme" },
+    { "id": "rami_meme_2", "url": "/assets/placeholders/memes/rami_meme2.jpg", "alt": "Rami dreamy look meme" },
+    { "id": "rami_meme_3", "url": "/assets/placeholders/memes/rami_meme3.jpg", "alt": "Rami surprised reaction meme" }
+  ],
+  "ahyeon": [
+    { "id": "ahyeon_meme_1", "url": "/assets/placeholders/memes/ahyeon_meme1.jpg", "alt": "Ahyeon boss energy meme" },
+    { "id": "ahyeon_meme_2", "url": "/assets/placeholders/memes/ahyeon_meme2.jpg", "alt": "Ahyeon confident smile meme" },
+    { "id": "ahyeon_meme_3", "url": "/assets/placeholders/memes/ahyeon_meme3.jpg", "alt": "Ahyeon all-rounder meme" }
+  ],
+  "pharita": [
+    { "id": "pharita_meme_1", "url": "/assets/placeholders/memes/pharita_meme1.jpg", "alt": "Pharita model pose meme" },
+    { "id": "pharita_meme_2", "url": "/assets/placeholders/memes/pharita_meme2.jpg", "alt": "Pharita chic look meme" },
+    { "id": "pharita_meme_3", "url": "/assets/placeholders/memes/pharita_meme3.jpg", "alt": "Pharita singing gracefully meme" }
+  ],
+  "rora": [
+    { "id": "rora_meme_1", "url": "/assets/placeholders/memes/rora_meme1.jpg", "alt": "Rora sweet smile meme" },
+    { "id": "rora_meme_2", "url": "/assets/placeholders/memes/rora_meme2.jpg", "alt": "Rora mystical vibe meme" },
+    { "id": "rora_meme_3", "url": "/assets/placeholders/memes/rora_meme3.jpg", "alt": "Rora warm hug meme" }
+  ]
+}
