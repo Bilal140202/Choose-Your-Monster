@@ -1,0 +1,37 @@
+{
+  "ruka": [
+    { "id": "ruka_tiktok_1", "url": "https://www.tiktok.com/embed/1234567890123456789", "title": "Ruka Powerful Dance Edit" },
+    { "id": "ruka_tiktok_2", "url": "https://www.instagram.com/reels/CexampleRuka2/", "title": "Ruka Stage Presence Reel" },
+    { "id": "ruka_tiktok_3", "url": "https://www.tiktok.com/embed/9876543210987654321", "title": "Ruka Charisma Moments" }
+  ],
+  "chiquita": [
+    { "id": "chiquita_tiktok_1", "url": "https://www.tiktok.com/embed/2345678901234567890", "title": "Chiquita Energetic Performance" },
+    { "id": "chiquita_tiktok_2", "url": "https://www.instagram.com/reels/CexampleChiquita2/", "title": "Chiquita Cute Moments Reel" },
+    { "id": "chiquita_tiktok_3", "url": "https://www.tiktok.com/embed/8765432109876543210", "title": "Chiquita Dance Challenge" }
+  ],
+  "asa": [
+    { "id": "asa_tiktok_1", "url": "https://www.tiktok.com/embed/3456789012345678901", "title": "Asa Rap Compilation" },
+    { "id": "asa_tiktok_2", "url": "https://www.instagram.com/reels/CexampleAsa2/", "title": "Asa Stage Focus Reel" },
+    { "id": "asa_tiktok_3", "url": "https://www.tiktok.com/embed/7654321098765432109", "title": "Asa duality edit" }
+  ],
+  "rami": [
+    { "id": "rami_tiktok_1", "url": "https://www.tiktok.com/embed/4567890123456789012", "title": "Rami Vocal Power Edit" },
+    { "id": "rami_tiktok_2", "url": "https://www.instagram.com/reels/CexampleRami2/", "title": "Rami Dreamy Visuals Reel" },
+    { "id": "rami_tiktok_3", "url": "https://www.tiktok.com/embed/6543210987654321098", "title": "Rami high note challenge" }
+  ],
+  "ahyeon": [
+    { "id": "ahyeon_tiktok_1", "url": "https://www.tiktok.com/embed/5678901234567890123", "title": "Ahyeon All-Rounder Moments" },
+    { "id": "ahyeon_tiktok_2", "url": "https://www.instagram.com/reels/CexampleAhyeon2/", "title": "Ahyeon Boss Vibe Reel" },
+    { "id": "ahyeon_tiktok_3", "url": "https://www.tiktok.com/embed/5432109876543210987", "title": "Ahyeon dance practice" }
+  ],
+  "pharita": [
+    { "id": "pharita_tiktok_1", "url": "https://www.tiktok.com/embed/6789012345678901234", "title": "Pharita Model Walk Edit" },
+    { "id": "pharita_tiktok_2", "url": "https://www.instagram.com/reels/CexamplePharita2/", "title": "Pharita Elegant Vocals Reel" },
+    { "id": "pharita_tiktok_3", "url": "https://www.tiktok.com/embed/4321098765432109876", "title": "Pharita photoshoot bts" }
+  ],
+  "rora": [
+    { "id": "rora_tiktok_1", "url": "https://www.tiktok.com/embed/7890123456789012345", "title": "Rora Sweet Voice Compilation" },
+    { "id": "rora_tiktok_2", "url": "https://www.instagram.com/reels/CexampleRora2/", "title": "Rora Warm Presence Reel" },
+    { "id": "rora_tiktok_3", "url": "https://www.tiktok.com/embed/3210987654321098765", "title": "Rora stage moments" }
+  ]
+}
