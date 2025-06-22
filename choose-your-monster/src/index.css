@@ -1,3 +1,73 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Removed @layer base body styles as they are now directly in index.html */
+
+/* Fire and Smoke background for Ruka */
+.bg-fire-smoke {
+  background-color: #1a0000; /* Very dark red base */
+  background-image:
+    radial-gradient(ellipse at bottom, rgba(255,100,0,0.6) 0%, transparent 60%), /* Orange fire at bottom */
+    radial-gradient(ellipse at top left, rgba(80,80,80,0.5) 0%, transparent 50%), /* Smoke top left */
+    radial-gradient(ellipse at top right, rgba(100,100,100,0.4) 0%, transparent 50%); /* Smoke top right */
+  /* animation property removed, will be applied via Tailwind class 'animate-flicker' */
+}
+
+/* Galaxy Purple background for Rami (example for future use) */
+.bg-galaxy-purple {
+  background-color: #0f001a; /* Very dark purple base */
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(173, 216, 230, 0.3) 0%, transparent 30%), /* Light blue stars */
+    radial-gradient(circle at 80% 70%, rgba(221, 160, 221, 0.3) 0%, transparent 30%), /* Plum stars */
+    radial-gradient(circle at 50% 50%, rgba(75, 0, 130, 0.4) 0%, transparent 60%); /* Indigo nebula */
+  /* animation property removed, will be applied via Tailwind class 'animate-stars-pulse' */
+}
+
+/* General styling for member universe pages if needed */
+.member-universe-page {
+  /* common styles for all member pages can go here */
+  position: relative; /* For positioning portal-like elements if needed */
+  overflow: hidden; /* If effects go outside bounds */
+}
+
+/* Basic Portal Styling */
+.portal-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem; /* Space below portal */
+  perspective: 500px; /* For 3D-ish effects on child */
+}
+
+.portal-flame-tunnel {
+  width: 200px;
+  height: 300px; /* Rectangular, could be oval with border-radius */
+  background:
+    radial-gradient(ellipse at center, rgba(255,0,0,0.7) 0%, rgba(255,150,0,0.5) 40%, rgba(50,0,0,0.3) 90%, transparent 100%);
+  border: 3px solid #ff6600; /* Fiery orange border */
+  border-radius: 50% / 30%; /* Oval shape */
+  box-shadow: 0 0 20px #ff6600, 0 0 30px #ffcc00, inset 0 0 15px #ff3300;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-shadow: 0 0 5px black;
+  /* animation properties removed, will be applied via Tailwind classes */
+  transform-style: preserve-3d;
+}
+
+.portal-flame-tunnel::before {
+  content: '';
+  position: absolute;
+  top: 5%; bottom: 5%; left: 5%; right: 5%;
+  border-radius: 50% / 30%;
+  border: 2px dashed rgba(255,255,255,0.3);
+  /* animation property removed, will be applied via Tailwind class */
+}
+
+/* @keyframes for portal are now in tailwind.config.js */
