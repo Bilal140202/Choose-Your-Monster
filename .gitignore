@@ -13,4 +13,3 @@ build/
 .env
 
 # AI System Instructions (Local Only - DO NOT PUSH)
-.ai_build_plan.md
